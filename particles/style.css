@@ -1,0 +1,14 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: -10px;
+    margin-top: 0;
+    height: 100vh;
+}
+
+#particles-js {
+    height: 100%;
+    background-color: black;
+    background-image: url('https://i.pinimg.com/originals/94/d1/44/94d144aeb3c0bbc518fe3480a77b8192.jpg');
+    background-size: 100%;
+}
